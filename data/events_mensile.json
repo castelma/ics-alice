@@ -346,6 +346,14 @@
   },
   {
     "date": "2026-05-31",
+    "start": "11:15",
+    "end": "13:15",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-05-31-11:15-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-05-31",
     "start": "14:15",
     "end": "19:15",
     "title": "V-Negozio",
@@ -378,32 +386,24 @@
   },
   {
     "date": "2026-06-04",
-    "start": "09:00",
-    "end": "10:00",
+    "start": "10:00",
+    "end": "11:00",
     "title": "R-General",
     "notes": "Attribuzione : R-General (R-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : Scarico (R)",
-    "uid": "2026-06-04-09:00-R-General@effiplan-pdf"
+    "uid": "2026-06-04-10:00-R-General@effiplan-pdf"
   },
   {
     "date": "2026-06-04",
-    "start": "10:00",
+    "start": "11:00",
     "end": "13:00",
     "title": "TRUCKTOPEG",
     "notes": "Attribuzione : TRUCKTOPEG (MIR-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : MIR (MIR)",
-    "uid": "2026-06-04-10:00-TRUCKTOPEG@effiplan-pdf"
-  },
-  {
-    "date": "2026-06-04",
-    "start": "13:30",
-    "end": "14:00",
-    "title": "V-Negozio",
-    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-06-04-13:30-V-Negozio@effiplan-pdf"
+    "uid": "2026-06-04-11:00-TRUCKTOPEG@effiplan-pdf"
   },
   {
     "date": "2026-06-04",
     "start": "14:00",
-    "end": "16:30",
+    "end": "19:00",
     "title": "TRUCKTOPEG",
     "notes": "Attribuzione : TRUCKTOPEG (MIR-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : MIR (MIR)",
     "uid": "2026-06-04-14:00-TRUCKTOPEG@effiplan-pdf"
