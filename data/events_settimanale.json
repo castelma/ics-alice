@@ -81,6 +81,14 @@
   },
   {
     "date": "2026-06-20",
+    "start": "15:00",
+    "end": "17:00",
+    "title": "ROL",
+    "notes": "tag",
+    "uid": "2026-06-20-15:00-ROL@effiplan-html"
+  },
+  {
+    "date": "2026-06-20",
     "start": "15:15",
     "end": "20:15",
     "title": "V-Negozio",
