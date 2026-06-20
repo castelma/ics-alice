@@ -193,6 +193,15 @@
   },
   {
     "date": "2026-06-20",
+    "end_date": "2026-06-21",
+    "start": null,
+    "end": null,
+    "title": "? Abs. (ROL)",
+    "notes": "Richiesta in attesa (ROL)",
+    "uid": "2026-06-20-allday-?_Abs._(ROL)@effiplan-pdf"
+  },
+  {
+    "date": "2026-06-20",
     "start": "11:15",
     "end": "13:15",
     "title": "V-Negozio",
