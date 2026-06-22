@@ -193,15 +193,6 @@
   },
   {
     "date": "2026-06-20",
-    "end_date": "2026-06-21",
-    "start": null,
-    "end": null,
-    "title": "? Abs. (ROL)",
-    "notes": "Richiesta in attesa (ROL)",
-    "uid": "2026-06-20-allday-?_Abs._(ROL)@effiplan-pdf"
-  },
-  {
-    "date": "2026-06-20",
     "start": "11:15",
     "end": "13:15",
     "title": "V-Negozio",
@@ -211,18 +202,26 @@
   {
     "date": "2026-06-20",
     "start": "14:15",
-    "end": "15:15",
+    "end": "15:00",
     "title": "A-Cashier",
     "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
     "uid": "2026-06-20-14:15-A-Cashier@effiplan-pdf"
   },
   {
     "date": "2026-06-20",
-    "start": "15:15",
+    "start": "15:00",
+    "end": "17:00",
+    "title": "Abs. (ROL)",
+    "notes": "(ROL) ROL (15:00 - 17:00) | Orario: 15:00 - 17:00",
+    "uid": "2026-06-20-15:00-Abs._(ROL)@effiplan-pdf"
+  },
+  {
+    "date": "2026-06-20",
+    "start": "17:00",
     "end": "20:15",
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-06-20-15:15-V-Negozio@effiplan-pdf"
+    "uid": "2026-06-20-17:00-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-06-23",
