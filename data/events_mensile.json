@@ -233,19 +233,19 @@
   },
   {
     "date": "2026-06-24",
-    "start": "14:00",
-    "end": "15:00",
-    "title": "COL (COLLOQUIO)",
-    "notes": "(COLLOQUIO) COLLOQUIO (14:00 - 15:00) | Orario: 14:00 - 15:00",
-    "uid": "2026-06-24-14:00-COL_(COLLOQUIO)@effiplan-pdf"
+    "start": "14:15",
+    "end": "15:15",
+    "title": "A-Cashier",
+    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
+    "uid": "2026-06-24-14:15-A-Cashier@effiplan-pdf"
   },
   {
     "date": "2026-06-24",
-    "start": "15:00",
-    "end": "20:00",
+    "start": "15:15",
+    "end": "20:15",
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-06-24-15:00-V-Negozio@effiplan-pdf"
+    "uid": "2026-06-24-15:15-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-06-25",
