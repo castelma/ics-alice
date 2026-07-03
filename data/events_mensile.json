@@ -310,9 +310,9 @@
     "end_date": "2026-08-15",
     "start": null,
     "end": null,
-    "title": "? RicIndis (INDISPO)",
-    "notes": "Richiesta in attesa (INDISPO)",
-    "uid": "2026-08-14-allday-?_RicIndis_(INDISPO)@effiplan-pdf"
+    "title": "RicIndis (INDISPO)",
+    "notes": "(INDISPO) Richiesta di Indispo",
+    "uid": "2026-08-14-allday-RicIndis_(INDISPO)@effiplan-pdf"
   },
   {
     "date": "2026-08-31",
