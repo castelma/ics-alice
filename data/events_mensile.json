@@ -259,11 +259,11 @@
   },
   {
     "date": "2026-08-05",
-    "start": "15:00",
+    "start": "19:30",
     "end": "20:30",
-    "title": "Pausa (PAUSAGIORN)",
-    "notes": "(PAUSAGIORN) DOPPIAPAUSA (15:00 - 20:30) | Orario: 15:00 - 20:30",
-    "uid": "2026-08-05-15:00-Pausa_(PAUSAGIORN)@effiplan-pdf"
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-08-05-19:30-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-08-05",
@@ -280,6 +280,14 @@
     "title": "TRUCKTOPEG",
     "notes": "Attribuzione : TRUCKTOPEG (MIR-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : MIR (MIR)",
     "uid": "2026-08-06-10:30-TRUCKTOPEG@effiplan-pdf"
+  },
+  {
+    "date": "2026-08-06",
+    "start": "15:30",
+    "end": "19:30",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-08-06-15:30-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-08-08",
@@ -344,6 +352,22 @@
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
     "uid": "2026-08-11-10:30-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-08-11",
+    "start": "15:30",
+    "end": "17:30",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-08-11-15:30-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-08-13",
+    "start": "11:15",
+    "end": "13:15",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-08-13-11:15-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-08-13",
