@@ -41,27 +41,27 @@
   },
   {
     "date": "2026-08-05",
-    "start": "19:30",
-    "end": "20:30",
+    "start": "15:30",
+    "end": "17:30",
     "title": "V-Negozio",
     "notes": "",
-    "uid": "2026-08-05-19:30-V-Negozio@effiplan-html"
+    "uid": "2026-08-05-15:30-V-Negozio@effiplan-html"
   },
   {
     "date": "2026-08-06",
-    "start": "10:30",
-    "end": "14:30",
+    "start": "09:30",
+    "end": "13:30",
     "title": "TRUCKTOPEG",
     "notes": "",
-    "uid": "2026-08-06-10:30-TRUCKTOPEG@effiplan-html"
+    "uid": "2026-08-06-09:30-TRUCKTOPEG@effiplan-html"
   },
   {
     "date": "2026-08-06",
-    "start": "15:30",
-    "end": "19:30",
+    "start": "14:30",
+    "end": "18:30",
     "title": "V-Negozio",
     "notes": "",
-    "uid": "2026-08-06-15:30-V-Negozio@effiplan-html"
+    "uid": "2026-08-06-14:30-V-Negozio@effiplan-html"
   },
   {
     "date": "2026-08-08",
@@ -82,7 +82,7 @@
   {
     "date": "2026-08-08",
     "start": "15:30",
-    "end": "17:30",
+    "end": "16:30",
     "title": "V-Negozio",
     "notes": "",
     "uid": "2026-08-08-15:30-V-Negozio@effiplan-html"
