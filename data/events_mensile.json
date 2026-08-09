@@ -258,19 +258,11 @@
   },
   {
     "date": "2026-08-24",
-    "start": "14:15",
-    "end": "18:15",
+    "start": "14:00",
+    "end": "20:00",
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-08-24-14:15-V-Negozio@effiplan-pdf"
-  },
-  {
-    "date": "2026-08-24",
-    "start": "18:15",
-    "end": "20:15",
-    "title": "ASG-Genera",
-    "notes": "Attribuzione : ASG-Genera (ASG-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : Accoglienza SG (ASG)",
-    "uid": "2026-08-24-18:15-ASG-Genera@effiplan-pdf"
+    "uid": "2026-08-24-14:00-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-08-25",
@@ -322,21 +314,21 @@
   },
   {
     "date": "2026-08-31",
-    "end_date": "2026-09-05",
+    "end_date": "2026-09-01",
     "start": null,
     "end": null,
-    "title": "? Abs. (FERIE)",
-    "notes": "Richiesta in attesa (FERIE)",
-    "uid": "2026-08-31-allday-?_Abs._(FERIE)@effiplan-pdf"
+    "title": "Abs. (FERIE)",
+    "notes": "(FERIE) FERIE",
+    "uid": "2026-08-31-allday-Abs._(FERIE)@effiplan-pdf"
   },
   {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "end_date": "2026-09-05",
     "start": null,
     "end": null,
-    "title": "? Abs. (FERIE)",
-    "notes": "Richiesta in attesa (FERIE)",
-    "uid": "2026-08-31-allday-?_Abs._(FERIE)@effiplan-pdf"
+    "title": "Abs. (FERIE)",
+    "notes": "(FERIE) FERIE",
+    "uid": "2026-09-01-allday-Abs._(FERIE)@effiplan-pdf"
   },
   {
     "date": "2026-09-09",
