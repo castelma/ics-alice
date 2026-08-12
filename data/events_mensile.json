@@ -374,6 +374,14 @@
     "uid": "2026-10-26-allday-Abs._(FERIE)@effiplan-pdf"
   },
   {
+    "date": "2026-11-16",
+    "start": "14:00",
+    "end": "15:00",
+    "title": "COL (COLLOQUIO)",
+    "notes": "(COLLOQUIO) COLLOQUIO (14:00 - 15:00) | Orario: 14:00 - 15:00",
+    "uid": "2026-11-16-14:00-COL_(COLLOQUIO)@effiplan-pdf"
+  },
+  {
     "date": "2026-12-16",
     "start": "20:30",
     "end": "21:30",
