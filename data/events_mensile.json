@@ -185,22 +185,6 @@
     "uid": "2026-08-16-09:30-V-Negozio@effiplan-pdf"
   },
   {
-    "date": "2026-08-17",
-    "start": "14:15",
-    "end": "16:15",
-    "title": "ASG-Genera",
-    "notes": "Attribuzione : ASG-Genera (ASG-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : Accoglienza SG (ASG)",
-    "uid": "2026-08-17-14:15-ASG-Genera@effiplan-pdf"
-  },
-  {
-    "date": "2026-08-17",
-    "start": "16:15",
-    "end": "20:15",
-    "title": "V-Negozio",
-    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-08-17-16:15-V-Negozio@effiplan-pdf"
-  },
-  {
     "date": "2026-08-19",
     "start": "09:00",
     "end": "14:00",
@@ -247,6 +231,14 @@
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
     "uid": "2026-08-21-18:00-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-08-22",
+    "start": "14:00",
+    "end": "20:00",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-08-22-14:00-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-08-23",
