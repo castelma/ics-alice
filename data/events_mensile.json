@@ -413,6 +413,78 @@
     "uid": "2026-09-12-15:15-V-Negozio@effiplan-pdf"
   },
   {
+    "date": "2026-09-14",
+    "start": "08:30",
+    "end": "09:30",
+    "title": "A-Cashier",
+    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
+    "uid": "2026-09-14-08:30-A-Cashier@effiplan-pdf"
+  },
+  {
+    "date": "2026-09-14",
+    "start": "09:30",
+    "end": "14:30",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-09-14-09:30-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-09-16",
+    "start": "14:15",
+    "end": "19:15",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-09-16-14:15-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-09-16",
+    "start": "19:15",
+    "end": "20:15",
+    "title": "A-Cashier",
+    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
+    "uid": "2026-09-16-19:15-A-Cashier@effiplan-pdf"
+  },
+  {
+    "date": "2026-09-17",
+    "start": "14:15",
+    "end": "19:15",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-09-17-14:15-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-09-17",
+    "start": "19:15",
+    "end": "20:15",
+    "title": "A-Cashier",
+    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
+    "uid": "2026-09-17-19:15-A-Cashier@effiplan-pdf"
+  },
+  {
+    "date": "2026-09-19",
+    "start": "08:30",
+    "end": "09:30",
+    "title": "A-Cashier",
+    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
+    "uid": "2026-09-19-08:30-A-Cashier@effiplan-pdf"
+  },
+  {
+    "date": "2026-09-19",
+    "start": "09:30",
+    "end": "14:30",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-09-19-09:30-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-09-19",
+    "start": "15:00",
+    "end": "16:00",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-09-19-15:00-V-Negozio@effiplan-pdf"
+  },
+  {
     "date": "2026-10-19",
     "start": "14:00",
     "end": "15:00",
