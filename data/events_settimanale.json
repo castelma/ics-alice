@@ -1,74 +1,47 @@
 [
   {
-    "date": "2026-08-23",
-    "start": "14:15",
-    "end": "18:15",
-    "title": "V-Negozio",
+    "date": "2026-08-31",
+    "end_date": "2026-09-01",
+    "start": null,
+    "end": null,
+    "title": "FERIE",
     "notes": "",
-    "uid": "2026-08-23-14:15-V-Negozio@effiplan-html"
+    "uid": "2026-08-31-allday-FERIE@effiplan-html"
   },
   {
-    "date": "2026-08-23",
-    "start": "18:15",
-    "end": "20:15",
-    "title": "ASG-Genera",
+    "date": "2026-09-01",
+    "end_date": "2026-09-02",
+    "start": null,
+    "end": null,
+    "title": "FERIE",
     "notes": "",
-    "uid": "2026-08-23-18:15-ASG-Genera@effiplan-html"
+    "uid": "2026-09-01-allday-FERIE@effiplan-html"
   },
   {
-    "date": "2026-08-25",
-    "start": "09:30",
-    "end": "15:30",
-    "title": "TRUCKTOPEG",
+    "date": "2026-09-02",
+    "end_date": "2026-09-03",
+    "start": null,
+    "end": null,
+    "title": "FERIE",
     "notes": "",
-    "uid": "2026-08-25-09:30-TRUCKTOPEG@effiplan-html"
+    "uid": "2026-09-02-allday-FERIE@effiplan-html"
   },
   {
-    "date": "2026-08-26",
-    "start": "08:30",
-    "end": "09:30",
-    "title": "ASG-Genera",
+    "date": "2026-09-03",
+    "end_date": "2026-09-04",
+    "start": null,
+    "end": null,
+    "title": "FERIE",
     "notes": "",
-    "uid": "2026-08-26-08:30-ASG-Genera@effiplan-html"
+    "uid": "2026-09-03-allday-FERIE@effiplan-html"
   },
   {
-    "date": "2026-08-26",
-    "start": "09:30",
-    "end": "14:30",
-    "title": "V-Negozio",
+    "date": "2026-09-04",
+    "end_date": "2026-09-05",
+    "start": null,
+    "end": null,
+    "title": "FERIE",
     "notes": "",
-    "uid": "2026-08-26-09:30-V-Negozio@effiplan-html"
-  },
-  {
-    "date": "2026-08-28",
-    "start": "14:00",
-    "end": "15:00",
-    "title": "V-Negozio",
-    "notes": "",
-    "uid": "2026-08-28-14:00-V-Negozio@effiplan-html"
-  },
-  {
-    "date": "2026-08-28",
-    "start": "15:00",
-    "end": "20:00",
-    "title": "TRUCKTOPEG",
-    "notes": "",
-    "uid": "2026-08-28-15:00-TRUCKTOPEG@effiplan-html"
-  },
-  {
-    "date": "2026-08-29",
-    "start": "14:15",
-    "end": "18:15",
-    "title": "V-Negozio",
-    "notes": "",
-    "uid": "2026-08-29-14:15-V-Negozio@effiplan-html"
-  },
-  {
-    "date": "2026-08-29",
-    "start": "18:15",
-    "end": "20:15",
-    "title": "ASG-Genera",
-    "notes": "",
-    "uid": "2026-08-29-18:15-ASG-Genera@effiplan-html"
+    "uid": "2026-09-04-allday-FERIE@effiplan-html"
   }
 ]
