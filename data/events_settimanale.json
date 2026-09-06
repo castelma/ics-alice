@@ -1,47 +1,84 @@
 [
   {
-    "date": "2026-08-31",
-    "end_date": "2026-09-01",
-    "start": null,
-    "end": null,
-    "title": "FERIE",
+    "date": "2026-09-07",
+    "start": "14:15",
+    "end": "15:15",
+    "title": "A-Cashier",
     "notes": "",
-    "uid": "2026-08-31-allday-FERIE@effiplan-html"
+    "uid": "2026-09-07-14:15-A-Cashier@effiplan-html"
   },
   {
-    "date": "2026-09-01",
-    "end_date": "2026-09-02",
-    "start": null,
-    "end": null,
-    "title": "FERIE",
+    "date": "2026-09-07",
+    "start": "15:15",
+    "end": "20:15",
+    "title": "V-Negozio",
     "notes": "",
-    "uid": "2026-09-01-allday-FERIE@effiplan-html"
+    "uid": "2026-09-07-15:15-V-Negozio@effiplan-html"
   },
   {
-    "date": "2026-09-02",
-    "end_date": "2026-09-03",
-    "start": null,
-    "end": null,
-    "title": "FERIE",
+    "date": "2026-09-08",
+    "start": "14:15",
+    "end": "15:15",
+    "title": "A-Cashier",
     "notes": "",
-    "uid": "2026-09-02-allday-FERIE@effiplan-html"
+    "uid": "2026-09-08-14:15-A-Cashier@effiplan-html"
   },
   {
-    "date": "2026-09-03",
-    "end_date": "2026-09-04",
-    "start": null,
-    "end": null,
-    "title": "FERIE",
+    "date": "2026-09-08",
+    "start": "15:15",
+    "end": "20:15",
+    "title": "V-Negozio",
     "notes": "",
-    "uid": "2026-09-03-allday-FERIE@effiplan-html"
+    "uid": "2026-09-08-15:15-V-Negozio@effiplan-html"
   },
   {
-    "date": "2026-09-04",
-    "end_date": "2026-09-05",
+    "date": "2026-09-09",
+    "end_date": "2026-09-10",
     "start": null,
     "end": null,
-    "title": "FERIE",
+    "title": "INDISPO",
     "notes": "",
-    "uid": "2026-09-04-allday-FERIE@effiplan-html"
+    "uid": "2026-09-09-allday-INDISPO@effiplan-html"
+  },
+  {
+    "date": "2026-09-10",
+    "end_date": "2026-09-11",
+    "start": null,
+    "end": null,
+    "title": "INDISPO",
+    "notes": "",
+    "uid": "2026-09-10-allday-INDISPO@effiplan-html"
+  },
+  {
+    "date": "2026-09-11",
+    "start": "14:30",
+    "end": "19:30",
+    "title": "V-Negozio",
+    "notes": "",
+    "uid": "2026-09-11-14:30-V-Negozio@effiplan-html"
+  },
+  {
+    "date": "2026-09-12",
+    "start": "11:15",
+    "end": "13:15",
+    "title": "V-Negozio",
+    "notes": "",
+    "uid": "2026-09-12-11:15-V-Negozio@effiplan-html"
+  },
+  {
+    "date": "2026-09-12",
+    "start": "14:15",
+    "end": "15:15",
+    "title": "A-Cashier",
+    "notes": "",
+    "uid": "2026-09-12-14:15-A-Cashier@effiplan-html"
+  },
+  {
+    "date": "2026-09-12",
+    "start": "15:15",
+    "end": "20:15",
+    "title": "V-Negozio",
+    "notes": "",
+    "uid": "2026-09-12-15:15-V-Negozio@effiplan-html"
   }
 ]
