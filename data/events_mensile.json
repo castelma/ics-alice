@@ -187,6 +187,14 @@
     "uid": "2026-09-21-09:30-S-General@effiplan-pdf"
   },
   {
+    "date": "2026-09-21",
+    "start": "09:30",
+    "end": "13:30",
+    "title": "O.SUPP (O.SUPP)",
+    "notes": "(O.SUPP) O.SUPP (09:30 - 13:30) | Orario: 09:30 - 13:30",
+    "uid": "2026-09-21-09:30-O.SUPP_(O.SUPP)@effiplan-pdf"
+  },
+  {
     "date": "2026-09-24",
     "start": "10:00",
     "end": "13:00",
@@ -243,12 +251,37 @@
     "uid": "2026-09-26-14:30-V-Negozio@effiplan-pdf"
   },
   {
+    "date": "2026-09-30",
+    "end_date": "2026-10-01",
+    "start": null,
+    "end": null,
+    "title": "TRAS (00:30> - 02:00>) (TRASLOCO)",
+    "notes": "(TRASLOCO) TRASLOCO (00:30> - 02:00>)",
+    "uid": "2026-09-30-allday-TRAS_(00:30>_-_02:00>)_(TRASLOCO)@effiplan-pdf"
+  },
+  {
+    "date": "2026-09-30",
+    "start": "20:00",
+    "end": "00:00",
+    "title": "TRAS (TRASLOCO)",
+    "notes": "(TRASLOCO) TRASLOCO (20:00 - 00:00>) | Orario: 20:00 - 00:00>",
+    "uid": "2026-09-30-20:00-TRAS_(TRASLOCO)@effiplan-pdf"
+  },
+  {
     "date": "2026-10-19",
     "start": "14:00",
     "end": "15:00",
     "title": "COL (COLLOQUIO)",
     "notes": "(COLLOQUIO) COLLOQUIO (14:00 - 15:00) | Orario: 14:00 - 15:00",
     "uid": "2026-10-19-14:00-COL_(COLLOQUIO)@effiplan-pdf"
+  },
+  {
+    "date": "2026-10-21",
+    "start": "20:00",
+    "end": "00:00",
+    "title": "TRAS (TRASLOCO)",
+    "notes": "(TRASLOCO) TRASLOCO (20:00 - 00:00>) | Orario: 20:00 - 00:00>",
+    "uid": "2026-10-21-20:00-TRAS_(TRASLOCO)@effiplan-pdf"
   },
   {
     "date": "2026-10-26",
