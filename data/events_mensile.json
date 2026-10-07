@@ -60,16 +60,16 @@
     "end_date": "2026-10-08",
     "start": null,
     "end": null,
-    "title": "TRAS (00:00> - 02:00>) (TRASLOCO)",
-    "notes": "(TRASLOCO) TRASLOCO (00:00> - 02:00>)",
-    "uid": "2026-10-07-allday-TRAS_(00:00>_-_02:00>)_(TRASLOCO)@effiplan-pdf"
+    "title": "TRAS (00:00> - 02:30>) (TRASLOCO)",
+    "notes": "(TRASLOCO) TRASLOCO (00:00> - 02:30>)",
+    "uid": "2026-10-07-allday-TRAS_(00:00>_-_02:30>)_(TRASLOCO)@effiplan-pdf"
   },
   {
     "date": "2026-10-07",
     "start": "20:00",
-    "end": "00:00",
+    "end": "23:30",
     "title": "TRAS (TRASLOCO)",
-    "notes": "(TRASLOCO) TRASLOCO (20:00 - 00:00>) | Orario: 20:00 - 00:00>",
+    "notes": "(TRASLOCO) TRASLOCO (20:00 - 23:30) | Orario: 20:00 - 23:30",
     "uid": "2026-10-07-20:00-TRAS_(TRASLOCO)@effiplan-pdf"
   },
   {
@@ -290,6 +290,22 @@
     "uid": "2026-10-26-allday-Abs._(FERIE)@effiplan-pdf"
   },
   {
+    "date": "2026-11-02",
+    "start": "10:00",
+    "end": "14:00",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-11-02-10:00-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-02",
+    "start": "15:00",
+    "end": "19:00",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-11-02-15:00-V-Negozio@effiplan-pdf"
+  },
+  {
     "date": "2026-11-03",
     "start": "09:00",
     "end": "14:00",
@@ -298,12 +314,68 @@
     "uid": "2026-11-03-09:00-FOR_(FORMAZIONE)@effiplan-pdf"
   },
   {
+    "date": "2026-11-03",
+    "start": "15:00",
+    "end": "18:00",
+    "title": "TRUCKTOPEG",
+    "notes": "Attribuzione : TRUCKTOPEG (MIR-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : MIR (MIR)",
+    "uid": "2026-11-03-15:00-TRUCKTOPEG@effiplan-pdf"
+  },
+  {
     "date": "2026-11-04",
     "start": "09:00",
     "end": "14:00",
     "title": "FOR (FORMAZIONE)",
     "notes": "(FORMAZIONE) FOR (09:00 - 14:00) | Orario: 09:00 - 14:00",
     "uid": "2026-11-04-09:00-FOR_(FORMAZIONE)@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-05",
+    "start": "11:15",
+    "end": "13:15",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-11-05-11:15-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-05",
+    "start": "14:15",
+    "end": "15:15",
+    "title": "A-Cashier",
+    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
+    "uid": "2026-11-05-14:15-A-Cashier@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-05",
+    "start": "15:15",
+    "end": "20:15",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-11-05-15:15-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-06",
+    "start": "11:00",
+    "end": "15:00",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-11-06-11:00-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-06",
+    "start": "16:00",
+    "end": "18:00",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-11-06-16:00-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-06",
+    "start": "18:00",
+    "end": "20:00",
+    "title": "TRUCKTOPEG",
+    "notes": "Attribuzione : TRUCKTOPEG (MIR-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : MIR (MIR)",
+    "uid": "2026-11-06-18:00-TRUCKTOPEG@effiplan-pdf"
   },
   {
     "date": "2026-11-16",
