@@ -34,7 +34,7 @@
   {
     "date": "2026-10-07",
     "start": "00:00",
-    "end": "02:00",
+    "end": "02:30",
     "title": "TRASLOCO",
     "notes": "tag",
     "uid": "2026-10-07-00:00-TRASLOCO@effiplan-html"
@@ -42,7 +42,7 @@
   {
     "date": "2026-10-07",
     "start": "20:00",
-    "end": "00:00",
+    "end": "23:30",
     "title": "TRASLOCO",
     "notes": "tag",
     "uid": "2026-10-07-20:00-TRASLOCO@effiplan-html"
