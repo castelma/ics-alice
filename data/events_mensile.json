@@ -105,6 +105,46 @@
     "uid": "2026-10-09-13:30-V-Negozio@effiplan-pdf"
   },
   {
+    "date": "2026-10-11",
+    "start": "07:00",
+    "end": "09:00",
+    "title": "Trasloco N",
+    "notes": "Attribuzione : Trasloco N (TRA-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Trasloco (TRA)",
+    "uid": "2026-10-11-07:00-Trasloco_N@effiplan-pdf"
+  },
+  {
+    "date": "2026-10-11",
+    "start": "07:00",
+    "end": "11:00",
+    "title": "O.SUPP (O.SUPP)",
+    "notes": "(O.SUPP) O.SUPP (07:00 - 11:00) | Orario: 07:00 - 11:00",
+    "uid": "2026-10-11-07:00-O.SUPP_(O.SUPP)@effiplan-pdf"
+  },
+  {
+    "date": "2026-10-11",
+    "start": "09:00",
+    "end": "11:00",
+    "title": "A-Cashier",
+    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
+    "uid": "2026-10-11-09:00-A-Cashier@effiplan-pdf"
+  },
+  {
+    "date": "2026-10-11",
+    "start": "11:30",
+    "end": "14:30",
+    "title": "A-Cashier",
+    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
+    "uid": "2026-10-11-11:30-A-Cashier@effiplan-pdf"
+  },
+  {
+    "date": "2026-10-11",
+    "start": "11:30",
+    "end": "14:30",
+    "title": "O.SUPP (O.SUPP)",
+    "notes": "(O.SUPP) O.SUPP (11:30 - 14:30) | Orario: 11:30 - 14:30",
+    "uid": "2026-10-11-11:30-O.SUPP_(O.SUPP)@effiplan-pdf"
+  },
+  {
     "date": "2026-10-12",
     "start": "10:00",
     "end": "16:00",
@@ -306,28 +346,12 @@
     "uid": "2026-11-02-15:00-V-Negozio@effiplan-pdf"
   },
   {
-    "date": "2026-11-03",
-    "start": "09:00",
-    "end": "14:00",
-    "title": "FOR (FORMAZIONE)",
-    "notes": "(FORMAZIONE) FOR (09:00 - 14:00) | Orario: 09:00 - 14:00",
-    "uid": "2026-11-03-09:00-FOR_(FORMAZIONE)@effiplan-pdf"
-  },
-  {
-    "date": "2026-11-03",
-    "start": "15:00",
-    "end": "18:00",
+    "date": "2026-11-04",
+    "start": "13:00",
+    "end": "19:00",
     "title": "TRUCKTOPEG",
     "notes": "Attribuzione : TRUCKTOPEG (MIR-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : MIR (MIR)",
-    "uid": "2026-11-03-15:00-TRUCKTOPEG@effiplan-pdf"
-  },
-  {
-    "date": "2026-11-04",
-    "start": "09:00",
-    "end": "14:00",
-    "title": "FOR (FORMAZIONE)",
-    "notes": "(FORMAZIONE) FOR (09:00 - 14:00) | Orario: 09:00 - 14:00",
-    "uid": "2026-11-04-09:00-FOR_(FORMAZIONE)@effiplan-pdf"
+    "uid": "2026-11-04-13:00-TRUCKTOPEG@effiplan-pdf"
   },
   {
     "date": "2026-11-05",
