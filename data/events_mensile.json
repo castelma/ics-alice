@@ -339,6 +339,14 @@
   },
   {
     "date": "2026-11-04",
+    "start": "10:30",
+    "end": "12:30",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-11-04-10:30-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-04",
     "start": "13:00",
     "end": "19:00",
     "title": "TRUCKTOPEG",
@@ -392,6 +400,22 @@
     "title": "TRUCKTOPEG",
     "notes": "Attribuzione : TRUCKTOPEG (MIR-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : MIR (MIR)",
     "uid": "2026-11-06-18:00-TRUCKTOPEG@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-07",
+    "start": "09:30",
+    "end": "13:30",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-11-07-09:30-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-07",
+    "start": "14:30",
+    "end": "18:30",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-11-07-14:30-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-11-08",
