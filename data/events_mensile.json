@@ -376,28 +376,28 @@
     "uid": "2026-11-22-14:00-V-Negozio@effiplan-pdf"
   },
   {
-    "date": "2026-11-24",
-    "start": "08:30",
-    "end": "09:30",
-    "title": "P-General",
-    "notes": "Attribuzione : P-General (P-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : Permanenza (P)",
-    "uid": "2026-11-24-08:30-P-General@effiplan-pdf"
-  },
-  {
-    "date": "2026-11-24",
-    "start": "09:30",
-    "end": "13:30",
-    "title": "TRUCKTOPEG",
-    "notes": "Attribuzione : TRUCKTOPEG (MIR-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : MIR (MIR)",
-    "uid": "2026-11-24-09:30-TRUCKTOPEG@effiplan-pdf"
-  },
-  {
-    "date": "2026-11-24",
-    "start": "14:00",
-    "end": "17:00",
+    "date": "2026-11-23",
+    "start": "11:45",
+    "end": "13:45",
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : MONTAGNA-WILD-CICLO- (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-11-24-14:00-V-Negozio@effiplan-pdf"
+    "uid": "2026-11-23-11:45-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-23",
+    "start": "14:15",
+    "end": "19:15",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : MONTAGNA-WILD-CICLO- (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-11-23-14:15-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-23",
+    "start": "19:15",
+    "end": "20:15",
+    "title": "P-General",
+    "notes": "Attribuzione : P-General (P-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : Permanenza (P)",
+    "uid": "2026-11-23-19:15-P-General@effiplan-pdf"
   },
   {
     "date": "2026-11-25",
