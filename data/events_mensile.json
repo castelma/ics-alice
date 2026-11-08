@@ -89,6 +89,15 @@
   },
   {
     "date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "start": null,
+    "end": null,
+    "title": "? Abs. (ROL)",
+    "notes": "Richiesta in attesa (ROL)",
+    "uid": "2026-11-07-allday-?_Abs._(ROL)@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-07",
     "start": "08:30",
     "end": "10:00",
     "title": "P-General",
