@@ -89,15 +89,6 @@
   },
   {
     "date": "2026-11-07",
-    "end_date": "2026-11-08",
-    "start": null,
-    "end": null,
-    "title": "? Abs. (ROL)",
-    "notes": "Richiesta in attesa (ROL)",
-    "uid": "2026-11-07-allday-?_Abs._(ROL)@effiplan-pdf"
-  },
-  {
-    "date": "2026-11-07",
     "start": "08:30",
     "end": "10:00",
     "title": "P-General",
@@ -115,10 +106,18 @@
   {
     "date": "2026-11-07",
     "start": "13:00",
-    "end": "17:00",
+    "end": "16:00",
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : MONTAGNA-WILD-CICLO- (00025669) | Attività/Qualif. : Vendita (V)",
     "uid": "2026-11-07-13:00-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-07",
+    "start": "16:00",
+    "end": "17:00",
+    "title": "Abs. (ROL)",
+    "notes": "(ROL) ROL (16:00 - 17:00) | Orario: 16:00 - 17:00",
+    "uid": "2026-11-07-16:00-Abs._(ROL)@effiplan-pdf"
   },
   {
     "date": "2026-11-08",
