@@ -256,6 +256,22 @@
     "uid": "2026-11-15-19:15-P-General@effiplan-pdf"
   },
   {
+    "date": "2026-11-16",
+    "start": "08:30",
+    "end": "12:30",
+    "title": "PMI (PMI)",
+    "notes": "(PMI) PMISS (08:30 - 12:30) | Orario: 08:30 - 12:30",
+    "uid": "2026-11-16-08:30-PMI_(PMI)@effiplan-pdf"
+  },
+  {
+    "date": "2026-11-16",
+    "start": "13:00",
+    "end": "17:00",
+    "title": "PMI (PMI)",
+    "notes": "(PMI) PMISS (13:00 - 17:00) | Orario: 13:00 - 17:00",
+    "uid": "2026-11-16-13:00-PMI_(PMI)@effiplan-pdf"
+  },
+  {
     "date": "2026-11-17",
     "start": "08:30",
     "end": "09:30",
@@ -278,30 +294,6 @@
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : MONTAGNA-WILD-CICLO- (00025669) | Attività/Qualif. : Vendita (V)",
     "uid": "2026-11-17-14:00-V-Negozio@effiplan-pdf"
-  },
-  {
-    "date": "2026-11-18",
-    "start": "11:45",
-    "end": "14:45",
-    "title": "V-Negozio",
-    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : MONTAGNA-WILD-CICLO- (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-11-18-11:45-V-Negozio@effiplan-pdf"
-  },
-  {
-    "date": "2026-11-18",
-    "start": "15:15",
-    "end": "19:15",
-    "title": "V-Negozio",
-    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : MONTAGNA-WILD-CICLO- (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-11-18-15:15-V-Negozio@effiplan-pdf"
-  },
-  {
-    "date": "2026-11-18",
-    "start": "19:15",
-    "end": "20:15",
-    "title": "P-General",
-    "notes": "Attribuzione : P-General (P-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : Permanenza (P)",
-    "uid": "2026-11-18-19:15-P-General@effiplan-pdf"
   },
   {
     "date": "2026-11-20",
