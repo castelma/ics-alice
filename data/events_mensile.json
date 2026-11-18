@@ -496,6 +496,14 @@
     "uid": "2026-11-30-19:30-P-General@effiplan-pdf"
   },
   {
+    "date": "2026-11-30",
+    "start": "20:30",
+    "end": "22:00",
+    "title": "RIU (RIUNIONE)",
+    "notes": "(RIUNIONE) RIUNIONE (20:30 - 22:00) | Orario: 20:30 - 22:00",
+    "uid": "2026-11-30-20:30-RIU_(RIUNIONE)@effiplan-pdf"
+  },
+  {
     "date": "2026-12-01",
     "start": "08:30",
     "end": "09:30",
@@ -513,11 +521,11 @@
   },
   {
     "date": "2026-12-04",
-    "start": "14:00",
+    "start": "15:30",
     "end": "18:00",
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : MONTAGNA-WILD-CICLO- (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-12-04-14:00-V-Negozio@effiplan-pdf"
+    "uid": "2026-12-04-15:30-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-12-04",
