@@ -3456,13 +3456,13 @@ DESCRIPTION:Attribuzione : P-General (P-01001162) | Luogo : General Servic
  es (01001162) | Attività/Qualif. : Permanenza (P)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A-Cashier
+SUMMARY:P-General
 DTSTART:20261125T083000
 DTEND:20261125T093000
-DTSTAMP:20261024T035234Z
-UID:2026-11-25-08:30-A-Cashier@effiplan-pdf
-DESCRIPTION:Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Servic
- es (02001162) | Attività/Qualif. : Accoglienza (A)
+DTSTAMP:20261121T061345Z
+UID:2026-11-25-08:30-P-General@effiplan-pdf
+DESCRIPTION:Attribuzione : P-General (P-01001162) | Luogo : General Servic
+ es (01001162) | Attività/Qualif. : Permanenza (P)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:V-Negozio
