@@ -520,6 +520,38 @@
     "uid": "2026-12-01-09:30-V-Negozio@effiplan-pdf"
   },
   {
+    "date": "2026-12-02",
+    "start": "10:30",
+    "end": "14:30",
+    "title": "M-General",
+    "notes": "Attribuzione : M-General (M-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : PMI SG (M)",
+    "uid": "2026-12-02-10:30-M-General@effiplan-pdf"
+  },
+  {
+    "date": "2026-12-02",
+    "start": "10:30",
+    "end": "14:30",
+    "title": "O.SUPP (O.SUPP)",
+    "notes": "(O.SUPP) O.SUPP (10:30 - 14:30) | Orario: 10:30 - 14:30",
+    "uid": "2026-12-02-10:30-O.SUPP_(O.SUPP)@effiplan-pdf"
+  },
+  {
+    "date": "2026-12-02",
+    "start": "15:00",
+    "end": "19:00",
+    "title": "M-General",
+    "notes": "Attribuzione : M-General (M-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : PMI SG (M)",
+    "uid": "2026-12-02-15:00-M-General@effiplan-pdf"
+  },
+  {
+    "date": "2026-12-02",
+    "start": "15:30",
+    "end": "19:30",
+    "title": "O.SUPP (O.SUPP)",
+    "notes": "(O.SUPP) O.SUPP (15:30 - 19:30) | Orario: 15:30 - 19:30",
+    "uid": "2026-12-02-15:30-O.SUPP_(O.SUPP)@effiplan-pdf"
+  },
+  {
     "date": "2026-12-04",
     "start": "15:30",
     "end": "18:00",
@@ -646,15 +678,6 @@
     "title": "TRUCKTOPEG",
     "notes": "Attribuzione : TRUCKTOPEG (MIR-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : MIR (MIR)",
     "uid": "2026-12-11-18:00-TRUCKTOPEG@effiplan-pdf"
-  },
-  {
-    "date": "2026-12-12",
-    "end_date": "2026-12-13",
-    "start": null,
-    "end": null,
-    "title": "? RicIndis (INDISPO)",
-    "notes": "Richiesta in attesa (INDISPO)",
-    "uid": "2026-12-12-allday-?_RicIndis_(INDISPO)@effiplan-pdf"
   },
   {
     "date": "2026-12-16",
