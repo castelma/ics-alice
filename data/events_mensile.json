@@ -632,19 +632,11 @@
     "uid": "2026-12-10-19:15-A-Cashier@effiplan-pdf"
   },
   {
-    "date": "2026-12-11",
-    "start": "14:00",
-    "end": "18:00",
-    "title": "V-Negozio",
-    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : MONTAGNA-WILD-CICLO- (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-12-11-14:00-V-Negozio@effiplan-pdf"
-  },
-  {
-    "date": "2026-12-11",
-    "start": "18:00",
-    "end": "20:00",
-    "title": "TRUCKTOPEG",
-    "notes": "Attribuzione : TRUCKTOPEG (MIR-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : MIR (MIR)",
-    "uid": "2026-12-11-18:00-TRUCKTOPEG@effiplan-pdf"
+    "date": "2026-12-12",
+    "start": "13:30",
+    "end": "19:30",
+    "title": "V-FITNESS-",
+    "notes": "Attribuzione : V-FITNESS- (V-00225002) | Luogo : FITNESS-NUOTO-RUNNIN (00225002) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-12-12-13:30-V-FITNESS-@effiplan-pdf"
   }
 ]
